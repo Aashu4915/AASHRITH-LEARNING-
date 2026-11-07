@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "Aashrith's Happy Learning World",
+  "short_name": "Aashrith Learn",
+  "description": "Visual daily-word learning with gentle animation and spoken English.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7faff",
+  "theme_color": "#6546cc",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
